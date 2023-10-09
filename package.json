@@ -1,0 +1,16 @@
+{
+  "name": "romanbackend",
+  "version": "1.0.0",
+  "description": "this is a web server application for loving reading roman",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yvan Frank",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
